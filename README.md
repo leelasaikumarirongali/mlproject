@@ -1,2 +1,1 @@
-## End to end projectgit config --
-git
+## End to end Machine learning project
